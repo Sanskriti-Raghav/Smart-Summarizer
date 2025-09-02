@@ -19,6 +19,7 @@ Smart Summarizer is a Streamlit web app that generates **concise abstractive sum
 - python-dotenv (env variables)
 
 ## Project Structure
+```
 smart-summarizer/
 ├── app.py           # Streamlit app entry point
 ├── llm_client.py    # Gemini API client
@@ -28,7 +29,7 @@ smart-summarizer/
 ├── requirements.txt # Python dependencies
 ├── README.md        # Project documentation
 └── .env             # Environment Variables
-
+```
 
 ## Setup & Installation
 
